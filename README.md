@@ -8,10 +8,19 @@
 
 ## Installation :
 
-* `apt update`
+* `pkg update`
+* `pkg upgrade`
 * `apt install git python python2 -y`
-* `git clone https://github.com/weirdnehal/INDO-CRACK.git`
+* `pip install pyfiglet`
+* `pip install requests`
+* `pip install mechanize`
+* `pip install bs4`
+* `pip install rich`
+* `rm -rf INDO-CRACK`
+* `git clone --depth=1 https://github.com/weirdnehal/INDO-CRACK.git`
 * `cd INDO-CRACK`
+* `chmod +x *`
+* `python INDO-CRACK`
 
 #### > Run : `python2 INDO-CRACK.py`
 
