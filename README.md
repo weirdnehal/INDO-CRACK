@@ -20,7 +20,7 @@
 * `git clone --depth=1 https://github.com/weirdnehal/INDO-CRACK.git`
 * `cd INDO-CRACK`
 * `chmod +x *`
-* `python INDO-CRACK`
+* `python INDO-CRACK.py`
 
 #### > Run : `python2 INDO-CRACK.py`
 
